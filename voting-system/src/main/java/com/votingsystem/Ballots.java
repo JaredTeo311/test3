@@ -130,7 +130,6 @@ public class Ballots {
                         // Error occurred while submitting the transaction
                         System.out.println("Error sending transfer transaction.");
                 }
-                System.out.println( "Hello World!" );
                 
         }catch (Exception e) {
                         e.printStackTrace();
